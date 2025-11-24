@@ -1,0 +1,20 @@
+.searchbox{
+    text-align: center;
+    margin-bottom: 25px;
+    
+}
+.searchboxButton{
+    height: 54px;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    background: linear-gradient(135deg, #89f7fe, #66a6ff);
+    /* transition: 1s ease-in-out; */
+    color: #fff;
+}
